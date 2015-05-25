@@ -1,1 +1,1 @@
-# entrust
+# Matrix Developments | Implementar Entrust usando Middleware's [ Laravel 5 ]
